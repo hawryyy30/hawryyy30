@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my habit**
 
-- 🌱 I’m currently learning **HTML, CSS, JSS**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 🤝 I’m looking for help with **FrontEnd Web Developing**
 
