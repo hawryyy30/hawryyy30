@@ -1,5 +1,4 @@
 <h1 align="center">Yo ! I'm Harry Sion Tarigan</h1>
-<h3 align="center">A person with high expectations but low on actions haha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawryyy30&label=Profile%20views&color=0e75b6&style=flat" alt="hawryyy30" /> </p>
 
