@@ -59,3 +59,5 @@
 </div>
 
 ###
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31vdu44dgortjysybrvxynlqxzmm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vdu44dgortjysybrvxynlqxzmm&cover_image=true&theme=compact&show_offline=false&background_color=383838&interchange=false)]]
