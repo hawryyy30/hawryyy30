@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">💻My tech stack</h2>
+<h2 align="left">💻 Tech stack</h2>
 
 ###
 
