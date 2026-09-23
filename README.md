@@ -5,21 +5,6 @@
 
 <h1 align="left">Yo 👋 ! Wassup ?</h1>
 
-###
-
-<p align="left">My name is Harry. I am a Computer Science student. I'm interested in frontend web development and UX design. Always excited to learn and explore new things ! 🤩</p>
-
-###
-
-<h2 align="left">😎A bit of me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since i was born<br>📚 I'm currently learning frontend web development<br>🎲 Fun fact : I'm a boring person LMAO</p>
-
-###
-
-<h2 align="left">💻 Tech stack</h2>
 
 ###
 
